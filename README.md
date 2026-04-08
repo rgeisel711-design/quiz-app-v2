@@ -37,8 +37,8 @@ Führt die folgenden Schritte im Terminal aus, um euren Arbeitsplatz vorzubereit
 
 1. **Repository klonen & betreten:**
    ```bash
-   git clone <REPO-URL>
-   cd 03-draft-quiz-app
+   git clone git@github.com:MartinCloudHelden/quiz-app-v2.git
+   cd quiz-app-v2
    ```
 
 2. **Umgebungsvariablen (Environment Variables) anlegen:**
